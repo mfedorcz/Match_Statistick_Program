@@ -3,6 +3,7 @@
   W celu uruchomienia programu wystarczy uruchomić plik JAR na systemie z zainstalowaną Javą.
   
   Przykłady działania programu:
+  
   ![obraz](https://user-images.githubusercontent.com/105107045/234689651-2248e3b4-c096-4e6a-91f0-b769bda4238c.png)
 
   ![obraz](https://user-images.githubusercontent.com/105107045/234689818-37df1ce1-97ed-423c-87ee-32222071e6b3.png)
